@@ -1,0 +1,197 @@
+cv:
+  name: "Bethany Fannin"
+  location: "Raleigh, NC"
+  email: "contact@bethanyfannin.com"
+  phone: "tel:+1-919-280-7934"
+  website: "https://bethanyfannin.com"
+  social_networks:
+    - network: "LinkedIn"
+      username: "bethany-fannin"
+    - network: "GitHub"
+      username: "bjf5201"
+  sections:
+    education:
+      - institution: "University of North Carolina Wilmington"
+        area: "Information Technology"
+        degree: "BS"
+        start_date: "2020-09"
+        end_date: "2022-05"
+        highlights:
+          - "**GPA:** 3.45"
+          - "**Coursework:** Ethical Hacking, Software Design Theory, Computer Networking, Platform Administration"
+      - institution: "Cape Fear Community College"
+        area: "Business Administration"
+        degree: "AA"
+        start_date: "2018-01"
+        end_date: "2020-05"
+        highlights:
+          - "**GPA:** 4.0"
+    experience:
+      - company: "MetLife"
+        position: "Software Engineer"
+        location: "Cary, NC"
+        start_date: "2022-12"
+        end_date: "present"
+        highlights:
+          - "Developed system monitoring tools for several critical services, resulting in a 70% reduction in unexpected outages"
+          - "Collaborated closely with senior engineers to orchestrate the migration of key testing services to Azure DevOps platform, boosting application availability by 15% and reducing operational costs by 25%"
+          - "Reduced department average ticket resolution time by 8 days by automating the ticketing process, improving data visibility in the process"
+          - "Authored comprehensive unit and integration test suites, leading to 30% decrease in post-deployment bugs detected"
+          - "Ensured company-wide compliance with testing processes and policies by creating user-friendly technical documentation for project stakeholders in the form of user manuals, interactive presentations, and video tutorials"
+          - "**Leveraged knowledge in** Java, Python, Bash Scripting, Selenium, Tosca, and Azure DevOps platform"
+      - company: "Pearson Education"
+        position: "Software Engineer Intern"
+        location: "Durham, NC"
+        start_date: "2022-05"
+        end_date: "2022-08"
+        highlights:
+          - "Increased development efficiency by 90% by creating a single page app for company employees using React, which automated the orchestration of internal servers"
+          - "Designed and normalized application database schema in PostgreSQL, resulting in a 30% increase in data retrieval times"
+          - "Reduced cloud operational costs by $100,000 per year by implementing distributed caching via Redis and connecting static assets to AWS Cloudfront"
+          - "Improved application usability and accessibility scores by 15 points through adherance to WCAG guidelines while utilizing Storybook and Figma for UI design"
+          - "**Leveraged knowledge in** GitHub, Git, Figma, Storybook, JavaScript, React, PostgreSQL, Docker, Kubernetes, HTML/CSS, UX design, cloud infrastructures and caching strategies"
+      - company: "ProCTS"
+        position: "Junior Network Engineer"
+        location: "Wilmington, NC"
+        start_date: "2019-11"
+        end_date: "2022-05"
+        highlights:
+          - "Decreased system and data vulnerability by 70% MoM by implementing security measures and conducting frequent penetration and susceptability tests"
+          - "Improved data transfer speeds for client applications by 67% by refactoring the storage system code to utilize a ring buffer that supported records of varied sizes"
+          - "Reduced manual labor by 10+ hours a week by developing Powershell scripts to streamline daily management of Active Directory and Exchange inboxes and Bash scripts to manage user permissions for 100+ users, respectively"
+          - "**Leveraged knowledge in** Linux and Windows administration, Powershell and Bash scripting, Pentesting, Cybersecurity, Database management"
+      - company: "Live Oak Bank"
+        position: "DevOps Engineer Intern"
+        start_date: "2021-05"
+        end_date: "2021-08"
+        highlights:
+          - "Boosted system reliability and data integrity by 40% through the implementation of infrastructure-as-code via Terraform to orchestrate multi-cloud infrastructures"
+          - "Architected CI/CD pipelines using distributed builds in Jenkins and Kubernetes, resulting in a reduction in deployment times from 4+ hours to less than 30 minutes"
+          - "Participated in pair-programming sessions with Senior Developers to develop scripts in Bash and Go which managed and monitored different levels of the server stack"
+          - "**Leveraged knowledge in** Go, Bash scripting, Terraform, Docker, Kubernetes, Jenkins, AWS, Google Cloud Platforms, and writing technical documentation"
+    open_source_projects:
+      - name: "TickTock Countdown Library"
+        date: "[github.com/bjf5201/ticktock](https://github.com/bjf5201/ticktock)"
+        highlights:
+          - "Developed a TypeScript library for developers to implement a user-friendly countdown for their front end web apps"
+          - "Tools Used: TypeScript, CSS, HTML"
+      - name: "CSS Dictionary SPA"
+        date: "[github.com/bjf5201/css-dictionary](https://github.com/bjf5201/css-dictionary)"
+        highlights:
+          - "Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users"
+          - "Tools Used: TypeScript, HTML, CSS"
+      - name: "Shield CLI App"
+        date: "[github.com/bjf5201/shield](https://github.com/bjf5201/shield)"
+        highlights:
+          - "Command-line application for developers to automate the flagging and blocking of spam and AI bots from their personal websites and blogs"
+          - "Tools Used: Go"
+    technologies:
+      - label: "Languages"
+        details: "C++, C, Java, SQL, JavaScript, Python, Go, Shell Scripting (Bash and Powershell)"
+      - label: "Technologies"
+        details: ".NET, React, Angular, Vue, PostgreSQL, Redis, Figma, Microsoft Azure, AWS, Terraform, GitHub, Selenium, Tosca, Jenkins, Docker, Kubernetes"
+    leadership:
+      - name: "Association for Computing Machinery"
+        start_date: "2023-07"
+        end_date: "present"
+        highlights:
+          - "Active member of Special Interest Group on Artificial Intelligence (**SIGAI**), Special Interest Group on Computers and Society (**SIGCAS**) and Special Interest Group on Computer-Human Interaction (**SIGCHI**)"
+      - name: "UNCW Information Systems Association"
+        start_date: "2020-09"
+        end_date: "2022-05"
+        highlights:
+          - "Elected as Communications Officer for fall 2021 - spring 2022 where I revitalized student engagement, increasing membership by 20 students and promoting awareness of club activities via the creation of the club's social media accounts on Instagram and Facebook"
+      - name: "CFCC Feminist Alliance"
+        start_date: "2019-09"
+        end_date: "2020-05"
+        highlights:
+          - "Vice President for fall 2021 - spring 2022, where I advanced our club's mission by organizing several 'Coffee and Consent' events in association with the local rape crisis center, Horizons, throughout the school year"
+design:
+  theme: "engineeringresumes"
+  page:
+    top_margin: "1 cm"
+    bottom_margin: "1 cm"
+    left_margin: "1 cm"
+    right_margin: "1 cm"
+    size: "us-letter"
+  text:
+    font_family: "Libertinus Serif"
+    font_size: "10pt"
+  links:
+    use_external_link_icon: true
+  header:
+    name_font_family: "Libertinus Serif"
+    name_font_size: "24 pt"
+    connections_font_family: "Libertinus Serif"
+  section_titles:
+    type: with-partial-line
+    font_family: XCharter
+    font_size: "1.2em"
+    bold: true
+    small_caps: true
+    line_thickness: "0.5pt"
+    vertical_space_above: "0.55cm"
+    vertical_space_below: "0.3cm"
+  # page_numbering_style: 'NAME - Page PAGE_NUMBER of TOTAL_PAGES'
+#  disable_last_updated_date: false
+#  last_updated_date_style: 'Last updated in TODAY'
+#  header_font_size: '24 pt'
+#  text_alignment: 'justified'
+#  seperator_between_connections: ''
+#  use_icons_for_connections: true
+#  margins:
+#   page:
+#     top: '1 cm'
+#     bottom: '1 cm'
+#     left: '1 cm'
+#     right: '1 cm'
+#   section_title:
+#     top: '0.3 cm'
+#     bottom: '0.2 cm'
+#   entry_area:
+#     left_and_right: '0.2 cm'
+#     vertical_between: '0.2 cm'
+#     date_and_location_width: '6.5 cm'
+#   highlights_area:
+#     top: '0.10 cm'
+#     left: '0.4 cm'
+#     vertical_between_bullet_points: '0.10 cm'
+#   header:
+#     vertical_between_name_and_connections: '0.3 cm'
+#     bottom: '0.3 cm'
+#     horizontal_between_connections: '0.5 cm'
+#locale_catalog:
+#  phone_number_format: 'national'
+#  date_style: 'MONTH_ABBREVIATION YEAR'
+#  abbreviations_for_months:
+#    - 'Jan'
+#    - 'Feb'
+#    - 'Mar'
+#    - 'Apr'
+#    - 'May'
+#    - 'Jun'
+#    - 'Jul'
+#    - 'Aug'
+#    - 'Sep'
+#    - 'Oct'
+#    - 'Nov'
+#    - 'Dec'
+#  full_names_of_months:
+#    - 'January'
+#    - 'February'
+#    - 'March'
+#    - 'April'
+#    - 'May'
+#    - 'June'
+#    - 'July'
+#    - 'August'
+#    - 'September'
+#    - 'October'
+#    - 'November'
+#    - 'December'
+#  month: 'month'
+#  months: 'months'
+#  year: 'year'
+#  years: 'years'
+#  present: 'present'
+#  to: 'to'

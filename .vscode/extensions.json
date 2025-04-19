@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "fnando.linter",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "vitest.explorer"
+  ]
+}

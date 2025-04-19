@@ -1,0 +1,192 @@
+cv:
+  name: "Bethany Fannin"
+  location: "Raleigh, NC"
+  email: "contact@bethanyfannin.com"
+  phone: "tel:+1-919-280-7934"
+  website: "https://bethanyfannin.com"
+  social_networks:
+    - network: "LinkedIn"
+      username: "bethany-fannin"
+    - network: "GitHub"
+      username: "bjf5201"
+  sections:
+    summary:
+      - "Highly skilled Software Test Engineer with experience in software development, test automation, and DevSecOps. Proficient in designing and implementing automated test frameworks for RESTful APIs and cloud-based applications. Strong expertise in Java, SQL, and CI/CD pipelines. Adept at driving innocation and efficiency in testing processes. Passionate about delivery high-quality software solutions that enhance customer experiences."
+    education:
+      - institution: "University of North Carolina Wilmington"
+        area: "Information Technology"
+        degree: "BS"
+        start_date: "2020-09"
+        end_date: "2022-05"
+        highlights:
+          - "**GPA:** 3.45/4.0"
+          - "**Coursework:** Ethical Hacking, Object-Oriented Programming and Design, Management of Databases, Business Application Development, Linux Administration, Statistical Analysis for Business and Economics, Information Assurance, Network Fundamentals"
+          - "**Campus Involvement:** Director of Communications for the Information Systems Association"
+      - institution: "Cape Fear Community College"
+        area: "Business Administration"
+        degree: "AA"
+        start_date: "2018-01"
+        end_date: "2020-05"
+        highlights:
+          - "**GPA:** 4.0/4.0"
+          - "**Coursework:** Accounting I & II, Microeconomics, Macroeconomics, Statistics and Probability, Calculus I & II, Logic and Proofs"
+          - "**Campus Involvement:** Vice President of the Feminist Alliance Club and member of Phi Theta Kappa Honor Society"
+    relevant_experience:
+      - company: "MetLife"
+        position: "Software Engineer"
+        location: "Cary, NC"
+        start_date: "2022-12"
+        end_date: "present"
+        highlights:
+          - "Developed system monitoring tools for several critical services, resulting in a 70% reduction in unexpected outages"
+          - "Collaborated closely with senior engineers to orchestrate the migration of key testing services to Azure DevOps platform, boosting application availability by 15% and reducing operational costs by 25%"
+          - "Reduced department average ticket resolution time by 8 days by automating the ticketing process, improving data visibility in the process"
+          - "Authored comprehensive unit and integration test suites, leading to 30% decrease in post-deployment bugs detected"
+          - "Ensured company-wide compliance with testing processes and policies by creating user-friendly technical documentation for project stakeholders in the form of user manuals, interactive presentations, and video tutorials"
+          - "**Leveraged knowledge in** Java, Python, Bash, Powershell, Selenium, Tosca, Azure DevOps Platform"
+      - company: "Pearson Education"
+        position: "Software Engineer Intern"
+        location: "Durham, NC"
+        start_date: "2022-05"
+        end_date: "2022-08"
+        highlights:
+          - "Increased development efficiency by 90% by creating a single page app for company employees using React, which automated the orchestration of internal servers"
+          - "Designed and normalized application database schema in PostgreSQL, resulting in a 30% increase in data retrieval times"
+          - "Reduced cloud operational costs by $100,000 per year by implementing distributed caching via Redis and connecting static assets to AWS Cloudfront"
+          - "Improved application usability and accessibility scores by 15 points through adherance to WCAG guidelines while utilizing Storybook and Figma for UI design"
+          - "**Leveraged knowledge in** GitHub, Figma, Storybook, JavaScript, React, PostgreSQL, Docker, Kubernetes, UX Design, Cloud Infrastructure, Caching Strategies"
+      - company: "ProCTS"
+        position: "Junior Network Engineer"
+        location: "Wilmington, NC"
+        start_date: "2019-11"
+        end_date: "2022-05"
+        highlights:
+          - "Decreased system and data vulnerability by 70% MoM by implementing security measures and conducting frequent penetration and susceptability tests"
+          - "Improved data transfer speeds for client applications by 67% by refactoring the storage system code to utilize a ring buffer that supported records of varied sizes"
+          - "Reduced manual labor by 10+ hours a week by developing Powershell scripts to streamline daily management of Active Directory and Exchange inboxes and Bash scripts to manage user permissions for 100+ users, respectively"
+          - "**Leveraged knowledge in** Linux & Windows Administration, Active Directory, Bash, Powershell, Pentesting, Cybersecurity, Database Management"
+      - company: "Live Oak Bank"
+        position: "Cloud Infrastructure Intern"
+        location: "Wilmington, NC"
+        start_date: "2021-05"
+        end_date: "2021-08"
+        highlights:
+          - "Boosted system reliability and data integrity by 40% through the implementation of infrastructure-as-code via Terraform to orchestrate multi-cloud infrastructures"
+          - "Architected CI/CD pipelines using distributed builds in Jenkins and Kubernetes, resulting in a reduction in deployment times from 4+ hours to less than 30 minutes"
+          - "Participated in pair-programming sessions with Senior Developers to develop scripts in Bash and Go which managed and monitored different levels of the server stack"
+          - "**Leveraged knowledge in** Go, Bash, Terraform, Docker, Kubernetes, Jenkins, AWS, Technical Documentation"
+    certifications:
+      - name: "Microsoft Certified: Azure Fundamentals"
+        date: "2023/05/08"
+        start_date:
+        end_date:
+        location: Microsoft
+        summary: "*Verification Link:* [https://www.credly.com/badges/c87be923-d5df-46d8-b97e-4ba0c6ec913d](https://www.credly.com/badges/c87be923-d5df-46d8-b97e-4ba0c6ec913d)"
+        highlights: []
+    technological_competencies:
+      - label: "Languages"
+        details: "C++, C, Java, SQL, JavaScript, Python, Go, Bash, Powershell, HTML, CSS"
+      - label: "Tools and Frameworks"
+        details: ".NET, React, Angular, Vue, PostgreSQL, Redis, Figma, Tensorflow, Microsoft Azure, AWS, Terraform, GitHub, Jira,Selenium, Tosca, Jenkins, Docker, Kubernetes, Apache Server, Nginx, Caddy Server"
+      - label: "Techniques and Skills"
+        details: "CI/CD automation, VCS, cache managment, data cleaning, algorithmic optimizations, requirements gathering, process automation, test-driven design, UX design, technical documentation"
+    open_source_projects:
+      - name: "TickTock Countdown Library"
+        date: "[github.com/bjf5201/ticktock](https://github.com/bjf5201/ticktock)"
+        summary: "A React library for developers to implement a user-friendly countdown for their frontend web apps."
+        highlights:
+          - "*Tech Stack*: TypeScript, React, Vite, CSS, HTML"
+      - name: "CSS Dictionary SPA"
+        date: "[github.com/bjf5201/css-dictionary](https://github.com/bjf5201/css-dictionary)"
+        highlights:
+          - "Interactive web app that allows the user to type in any CSS selector and then describes the individual pieces of the input selector and how they related to one another."
+          - "*Tech Stack*: Node.js, TypeScript, HTML, CSS"
+      - name: "Shield CLI App"
+        date: "[github.com/bjf5201/shield](https://github.com/bjf5201/shield)"
+        highlights:
+          - "Command-line application for developers to automate the flagging and blocking of spam and AI bots from their personal websites and blogs"
+          - "*Tech Stack*: Go"
+    leadership:
+      - name: "Association for Computing Machinery"
+        start_date: 2023-06-01
+        end_date: present
+        summary: "Active member since 2023 of several Special Interest Groups within the association, including:"
+        highlights:
+          - Special Interest Group on Artificial Intelligence (**SIGAI**)
+          - Special Interest Group on Computers and Society (**SIGCAS**)
+          - Special Interest Group on Computer-Human Interaction (**SIGCHI**)
+      - name: "UNCW Information Systems Association"
+        start_date: 2020-08-01
+        end_date: 2022-06-01
+        summary: "Director of Communications for a student organization whose aim was to spark interest in the field of Information Systems by holding Q&A sessions with local professionals, creating networking opportunities, and volunteering in the community"
+        highlights:
+          - Elected as the Director of Communications starting the fall of my senior year
+          - Increased association's membership by 80% through the use of promotional activities including social media and email marketing campaigns, speaking at campus events, and organizing activities with local businesses and technology professionals.
+      - name: "CFCC Feminist Alliance"
+        start_date: 2018-01-01
+        end_date: 2020-06-01
+        summary: "On leadership board of a student organization which encouraged students to advocate for equality for all members of our community regardless of gender identity, race, sexuality, age, or nationality"
+        highlights:
+          - Elected as Vice President in charge of event organization and promotions my second semester (2018-08-01) and remained in the position until graduation
+          - Coordinated several *Coffee and Consent* events with the local rape crisis center, where students were invited to facilitated discussions regarding consent led by professional social workers from the center
+design:
+  theme: "engineeringresumes"
+  page:
+    top_margin: "1cm"
+    bottom_margin: "1cm"
+    left_margin: "1cm"
+    right_margin: "1cm"
+  text:
+    font_family: EB Garamond
+    font_size: 11pt
+  links:
+    use_external_link_icon: true
+  header:
+    name_font_family: EB Garamond
+    name_font_size: 32pt
+    connections_font_family: EB Garamond
+  section_titles:
+    font_family: EB Garamond
+  entries:
+    date_and_location_width: "6cm"
+locale:
+  language: "en"
+  phone_number_format: "national"
+  page_numbering_template: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
+  last_updated_date_template: "Last updated in TODAY"
+  date_template: "MONTH_ABBREVIATION YEAR"
+  month: "month"
+  months: "months"
+  year: "year"
+  years: "years"
+  present: "present"
+  to: "–"
+  abbreviations_for_months:
+    - "Jan"
+    - "Feb"
+    - "Mar"
+    - "Apr"
+    - "May"
+    - "June"
+    - "July"
+    - "Aug"
+    - "Sept"
+    - "Oct"
+    - "Nov"
+    - "Dec"
+  full_names_of_months:
+    - "January"
+    - "February"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
+    - "October"
+    - "November"
+    - "December"
+rendercv_settings:
+  date: "2025-02-02"
+  bold_keywords: []
